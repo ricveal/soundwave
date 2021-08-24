@@ -1,2 +1,2 @@
-# soundwave
+# wavesurfer-demo
 Created with CodeSandbox

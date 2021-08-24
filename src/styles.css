@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap");
+
+body {
+  background: #eee;
+  color: #333;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+#root {
+  display: flex;
+  height: 96vh;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.track-info {
+  color: #333;
+  padding: 3em;
+  font-family: "Patrick Hand", cursive;
+  font-size: 1.5em;
+}
